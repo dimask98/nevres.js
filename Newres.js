@@ -61,7 +61,7 @@ $("div#tlogins button.btn.btn-primary").click(function(){var myVar = setInterval
         </div>
         <br>
         <div style="padding: 0px; width: 100%; color: rgb(60, 0, 255);" class=" u-msg   break  fl">
-        <div style="padding: 0px;width: 100%;color: rgb(60, 0, 255);text-align: left;display: block;margin-top: -17px;" class=" u-msg   break  fl"> مرحباً بك 👋<h1 style="display: inline-block;color: red;">`+ getuser(myid).topic+ `</h1>    نقدّر تواجدك معنا، ونتمنى لك يوماً سعيداً إن شاء الله في شات  صمت 
+        <div style="padding: 0px;width: 100%;color: rgb(60, 0, 255);text-align: left;display: block;margin-top: -17px;" class=" u-msg   break  fl"> مرحباً بك 👋<h1 style="display: inline-block;color: red;">`+ getuser(myid).topic+ `</h1>    نقدّر تواجدك معنا، ونتمنى لك يوماً سعيداً إن شاء الله في شات  تـرف 
  </div>
       </div>
     </div></div>
