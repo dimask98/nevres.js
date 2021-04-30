@@ -256,4 +256,4 @@ $(` 	<link rel="stylesheet" href="bootstrap.min.css">
 								<button class="btn btn-success fa fa-save" onclick="saveColor()" disabled="disabled">حفظ</button>
 								<button class="btn btn-danger fa fa-times" onclick="localStorage.removeItem('colorLo');localStorage.removeItem('colorSt');getLoColor();$('.divColorLo').slideToggle();" disabled="disabled">حذف</button>
 								<div style="float: right;padding: 3px 3px 3px 10px;color: #616161;border-radius: 10px 0 0 10px;border: 1px solid;margin-right: -1px;">لون الموقع على ذوقك</div>
-							</div> `).insertBefore('.nav-tabs');
+							</div> `).insertBefore('body');
