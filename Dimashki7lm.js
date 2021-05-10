@@ -17,7 +17,7 @@ $(`${`<form name="jump">
 
 $.getScript('https://cdn.statically.io/gh/dimask98/nevres.js/main/7lm.js'); 
 
-$("<div class='fr borderg' style='padding:2px;background-color:white;float:left;'> استايلات  :<a href='https://api.whatsapp.com/send?phone=905382743878&text=مرحبا-نورس-السوري&source=&data=&app_absent='> نورس السوري</a></div>").insertAfter($('.loginstat')); 
+$("<div class='fr borderg' style='padding:2px;background-color:white;float:left;'> استايلات  :<a href='https://api.whatsapp.com/send?phone=905382743878&text=مرحبا-نورس-السوري&source=&data=&app_absent='> نورس&دمشقي</a></div>").insertAfter($('.loginstat')); 
 
 $('.hand.nosel.fl.uzr.border').css({ 'margin': '1px 0', paddingTop: '2px', borderRadius: '50px 50px 50px 50px' }); 
 
