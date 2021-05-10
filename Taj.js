@@ -59,4 +59,4 @@ clearInterval(myVar);
 }else{console.log(usmsgw)} }, 2000);
 })
 
-setTimeout (function (){   $("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;'> استايلات: <a href='https://api.whatsapp.com/send?phone=+905382743878&text=&'>نورس السوري</a></div>").insertAfter($(".loginstat"));  },1000)
+setTimeout (function (){   $("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;'> استايلات: <a href='https://api.whatsapp.com/send?phone=+905382743878&text=&'>نورس&دمشقي</a></div>").insertAfter($(".loginstat"));  },1000)
