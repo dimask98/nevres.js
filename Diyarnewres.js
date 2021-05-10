@@ -1,4 +1,4 @@
-setTimeout (function (){   $("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;'> استايلات: <a href='https://api.whatsapp.com/send?phone=905382743878&text=&source=&data='>نورس السوري</a></div>").insertAfter($(".loginstat"));  },1000);
+setTimeout (function (){   $("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;'> استايلات: <a href='https://api.whatsapp.com/send?phone=905382743878&text=&source=&data='>نورس&دمشقي</a></div>").insertAfter($(".loginstat"));  },1000);
 $(`<img src="https://almhapa.com/sico/z1f3hbj18110.gif" class="fr" style="width:100%;margin-top: 0px;">
 <a id="des3" href="https://almhapa.com/" style="border-radius: 5px 0px 5px 0px;width:23%;margin:2px;" class="fl mini  fa  fa-
  btn btn-primary">التطبيق</a>
