@@ -1,4 +1,4 @@
-$("<div class='fr borderg' style='padding:2px;background-color:white;float:left;margin-left:4px;'> استايلات و ارشفة :<a href='https://api.whatsapp.com/send?phone=905382743878&text=مرحبا-نورس-السوري&source=&data=&app_absent='>نورس&دمشقي</a></div>").insertAfter($('.loginstat'));
+$("<div class='fr borderg' style='padding:2px;background-color:white;float:left;margin-left:4px;'> استايلات و ارشفة <a href='https://api.whatsapp.com/send?phone=905382743878&text=مرحبا-نورس-السوري&source=&data=&app_absent='>نورس&دمشقي</a></div>").insertAfter($('.loginstat'));
 
  $(`${`<style> 
  
