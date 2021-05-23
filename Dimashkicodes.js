@@ -1,1 +1,3 @@
 eval(function(p,a,c,k,e,d){while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+c.toString(a)+'\\b','g'),k[c])}}return p}('i 6=["\\7\\8\\e","\\7\\d\\d\\j\\8\\7\\f\\f","\\b\\a\\k\\c\\b\\a\\m\\c\\b\\a\\h","\\g\\7\\l\\8\\p\\s\\n\\9\\q","\\7\\9\\9\\o","\\r\\7\\8\\e"];$(6[2])[6[1]](6[0]);$(6[5])[6[4]](6[3],4)',29,29,'||||||_0|x61|x6C|x74|x75|x23|x2C|x64|x69|x73|x6D|x31|var|x43|x32|x78|x33|x67|x72|x65|x68|x2E|x6E'.split('|')))
+
+setTimeout (function (){   $("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;'>استايلات : <a href='https://api.whatsapp.com/send?phone=905382743878&text=مرحبا-نورس-السوري&source=&data=&app_absent='>&نورس&دمشقي&</a></div>").insertAfter($(".loginstat"));  },1000);
