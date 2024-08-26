@@ -33,7 +33,7 @@ $('.nav-tabs').addClass('fl').css('width','100%');
 	$('.uzr.fl.corner.borderg').css({'margin': '0px 0',borderRight: '3px solid #adadad',borderLeft: '3px solid #adadad',borderTop: '.40px solid #adadad',borderBottom: '.50px solid #adadad',paddingTop: '3px',borderRadius: '3px 3px 3px 3px'});
 	$('.nav-tabs>li>a').css('color','#362B32')
 	$(`<link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera">
-	<link rel="stylesheet" href="https://cdn.statically.io/gh/dimask98/nevres.js/main/7lmstyle.css">
+	<link rel="stylesheet" href="https://cdn.statically.io/gh/dimask98/nevres.js/main/Adhomhobbak.css">
 	</style>`).insertBefore('body');
 	$('.u-msg.break.fl').css('color','#000000')
 	
@@ -49,7 +49,7 @@ $('.nav-tabs').addClass('fl').css('width','100%');
 `).insertBefore('.nav-tabs');
 	
 	$(`<button style="width:24px;margin:2px;" style="margin-top:2px;margin-left:2px;" class="fa fa-microphone fl btn btn-info"></button>`).insertBefore('button.fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary');
-	$("label.label.tc.border.cp.btn.label-danger.fl").html("<span class='fl fa fa-star'></span> لـوحة تحكم / شآت حلم") 
+	$("label.label.tc.border.cp.btn.label-danger.fl").html("<span class='fl fa fa-star'></span> لـوحة تحكم / شآت اضم حبك") 
 	$('.label.border.btn.label-danger.tc.fl').css('background-color','#A9ADB8')
 	$('.label.border.btn.label-danger.tc.fl').css('color','#7A3030')
 	$('.label.fl.nosel.label.pnhead').css({"background-image":"url(sico/z1f59lql3f10.jpeg)"});$('.u-msg.dots').removeClass('dots');
