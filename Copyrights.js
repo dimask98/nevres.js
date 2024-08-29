@@ -20,7 +20,7 @@ document.getElementById('pass1')
 
 $("label.label.tc.border.cp.btn.label-danger.fl").html("<span class='fl fa fa-star-half-o'></span> لـوحة الشـآت ") 
 
-$(".fa-gear").text("آعدآدت الشات").css("width","");
+
 
 setTimeout (function (){  $("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;'>هندسة و تصميم: <a href='https://ihtc0.com/'>  الدمشقي / نــورس © 2020</a></div>").insertAfter($(".loginstat"));  },1000);
 
