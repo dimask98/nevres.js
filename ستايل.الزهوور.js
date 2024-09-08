@@ -46,6 +46,4 @@ $(document).ready(function() {
         #room .btn-primary { border-radius: 3px !important; border: 1px solid #ecdce447; }
         #d2 { background-color: #fff !important; }
     
-</style>
-</head>
-<body>
+
