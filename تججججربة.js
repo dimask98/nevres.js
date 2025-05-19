@@ -1,3 +1,43 @@
+$(function() {
+  // تعطيل التفاعل مع الصفحة
+  $('body').css({
+    'overflow': 'hidden',
+    'pointer-events': 'none'
+  });
+
+  // إنشاء طبقة تغطي الشاشة بالكامل
+  const $overlay = $('<div></div>').css({
+    position: 'fixed',
+    top: 0,
+    left: 0,
+    width: '100%',
+    height: '100%',
+    backgroundColor: '#000',
+    zIndex: 999999,
+    display: 'flex',
+    justifyContent: 'center',
+    alignItems: 'center'
+  });
+
+  // إنشاء عنصر الصورة
+  const $img = $('<img>').attr('src', 'https://up6.cc/2025/05/174766988962281.gif').css({
+    maxWidth: '100%',
+    maxHeight: '100%'
+  });
+
+  $overlay.append($img);
+  $('body').append($overlay);
+
+  // بعد انتهاء أول صورة، عرض الثانية
+  setTimeout(() => {
+    $img.attr('src', 'https://up6.cc/2025/05/174766993630041.gif');
+  }, 2000); // غيّر المدة إن أردت (بالمللي ثانية)
+
+  // ثم التحويل للموقع
+  setTimeout(() => {
+    window.location.href = 'https://madahost.online';
+  }, 4000); // المدة الإجمالية قبل التحويل
+});
 var rid='ylu1ovre5j';
 $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
 background-size: 220% auto;border-radius: 0 10px 0 10px!important;border: 1px solid #0000;}`);
